@@ -13,7 +13,7 @@ install만 했더니 docker가 떴다. 핵쉽다 여기까지.
 
 ### docker get started 문서보고 따라하기
 https://docs.docker.com/get-started/
-1. Set up your Docker environment (on this page)
+1. Set up your Docker environment
 2. Build an image and run it as one container
 3. Scale your app to run multiple containers
 4. Distribute your app across a cluster
@@ -21,10 +21,13 @@ https://docs.docker.com/get-started/
 6. Deploy your app to production
 
 
-## Set up your Docker environment
+##[Orientation and setup] Set up your Docker environment
 
 ### Docker concepts
 Docker는 developer와 sysadmin이 컨테이너를 사용해 어플리케이션을 개발,배포,운영을 위한 플랫폼이다. 어플리케이션을 배포하는 리눅스 컨테이너의 사용을 containerization라고 부른다. 컨테이너는 새로운 게 아니고, 쉽게 어플리케이션을 배포할 수 있게 해주는 것이다.
+
+Docker is a platform for developers and sysadmins to develop, deploy, and run applications with containers. The use of Linux containers to deploy applications is called containerization.
+
 
 containerization이 인기있는 이유는
 Flexible: Even the most complex applications can be containerized.
@@ -55,11 +58,5 @@ install~
 ```docker image ls```
 ```docker container ls --all```
 
-### Recap and cheat sheet
 
-
-
-
-
-
-Docker is a platform for developers and sysadmins to develop, deploy, and run applications with containers. The use of Linux containers to deploy applications is called containerization.
+##[Containers] Build an image and run it as one container
