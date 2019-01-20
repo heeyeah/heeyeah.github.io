@@ -9,6 +9,8 @@ tags: programming basic
 
 pass by value, pass by reference가 보던 책에 나오는데, call by value, call by reference와 비슷한 것 같아서 정리한다. ~~(결론은 똑같다. pass나 call이나)~~
 
+
+
 <br/>
 ### Call by Value
 **함수에 넘겨준 어떤 argument든 함수가 반환될 때 caller의 스코프에선 아무것도 변하지 않는다.**<br/>

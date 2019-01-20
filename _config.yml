@@ -10,11 +10,11 @@ exclude:
 
 # Site settings
 title: Heeeee
-subtitle: "Welcome Hee's Blog, I'm building this. I'm not ready yet!"
+subtitle: "Don't compare me with others, but compare me with the future. I believe that real effort does not betray me. Something that will recognize the effort is bound to appear in life."
 email: gdshy221@gmail.com
 name: Heeyeah
-description: >
-  Vive en paz.
+description: 
+ Vive en paz.
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
@@ -35,11 +35,16 @@ jekyll-archives:
   enabled:
     - categories
     - tags
+    - year
+    - month
+    - day
   layout: 'archive'
   permalinks:
     category: '/category/:name/'
     tag: '/tag/:name/'
-
+    year: '/archive/:year/'
+    month: '/archive/:year-:month/'
+    day: '/archive/:year-:month-:day'
 # Disqus comments
 # disqus_shortname: bencentra
 
