@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "[Docker] Docker Get Started 따라하기 - 2"
+date:   '2019-01-18 12:00:00'
+author: Heeye
+categories: Docker
+tags: docker
+---
 
 Docker 방식으로 app을 build하려면, 제일 밑부터 쌓아야 하는데 그게 Container이다. Container > Service > Stack 순으로 밑부터 쌓여 올라간다라고 생각하면 될 것 같다.
 
