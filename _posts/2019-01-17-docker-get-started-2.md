@@ -40,4 +40,4 @@ repo에 올리는 이미지는 ```username/repository:tag``` 를 사용하면 �
 
 ### Publish the image
 ```docker push dockerhee/get-started:part2```
-![push_image](../imgs/docker_push_images.png)
+![push_image](https://heeyeah.github.io/imgs/docker_push_image.PNG)
