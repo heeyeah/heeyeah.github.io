@@ -3,7 +3,7 @@ layout: post
 title:  "[Programming Basic] Pass by value, Pass by reference에 대해"
 date:   '2019-01-16 11:40:00'
 author: Heeye
-categories: ProgrammingBasic
+categories: Basic
 tags: programming basic
 ---
 
