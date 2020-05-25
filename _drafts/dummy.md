@@ -17,3 +17,11 @@ LinkedBlockingQueue is intended for use cases when consumers and producersconcur
 The ConcurrentLinkedQueue is useful for example when producers first produce something and finish their job by placing the work in the queue and only after the consumers starts to consume, knowing that they will be done when queue is empty. (here is no concurrency between producer-consumer but only between producer-producer and consumer-consumer)
 
 Simple, Fast, and Practical Non-Blocking and Blocking Concurrent Queue Algorithms by Maged M. Michael, Michael L. Scott
+---
+layout: post
+title: "마이크로 서비스 패턴"
+date: '2020-05-20 12:00:00'
+author: Heeye
+categories: microservice
+tags: microservice architecture
+---
