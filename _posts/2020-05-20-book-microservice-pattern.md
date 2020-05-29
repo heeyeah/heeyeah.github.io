@@ -1,3 +1,12 @@
+---
+layout: post
+title: "[Book] 마이크로 서비스 패턴"
+date: '2020-05-20 12:00:00'
+author: Heeye
+categories: microservice
+tags: microservice architecture
+---
+
 
 
 ## 5장. 비즈니스 로직 설계
@@ -121,9 +130,6 @@ class OrderCreatedEvent implements OrderDomainEvent {
 
 
 
-
 ## 6장. 비즈니스 로직 개발: 이벤트 소싱
-
 ## 7장. 마이크로서비스 쿼리 구현
-
 ## 8장. 외부 API 패턴
