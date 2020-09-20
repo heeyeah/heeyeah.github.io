@@ -50,6 +50,11 @@ export const Bio = () => (
                       LinkedIn
                     </a>
                   )}
+                  {social.instagram && (
+                    <a href={`https://www.instagram.com/${social.instagram}`}>
+                      Instagram
+                    </a>
+                  )}
                 </p>
               </div>
             </div>

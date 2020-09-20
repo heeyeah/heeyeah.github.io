@@ -36,7 +36,7 @@ export default ({ data, pageContext, location }) => {
       <PostTitle title={postTitle} />
       <PostDate date={date} />
       <PostContainer html={post.html} />
-      <SocialShare title={postTitle} author={author} />
+
       {!!sponsor.buyMeACoffeeId && (
         <SponsorButton sponsorId={sponsor.buyMeACoffeeId} />
       )}
@@ -55,7 +55,7 @@ export default ({ data, pageContext, location }) => {
     </Layout>
   )
 }
-
+// line 39 : <SocialShare title={postTitle} author={author} />
 export const pageQuery = graphql`
   query BlogPostBySlug($slug: String!) {
     site {
