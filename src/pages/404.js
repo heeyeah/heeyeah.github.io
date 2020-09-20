@@ -14,6 +14,8 @@ class NotFoundPage extends React.Component {
         <Head title="404: Not Found" />
         <h1>Not Found</h1>
         <p>You just hit a route that doesn&#39;t exist... the sadness.</p>
+        <p>The blog has been modified a little, so rendering may not work.
+        Go to the main page of https://heeyeah.github.io and find the category.</p>
       </Layout>
     )
   }
