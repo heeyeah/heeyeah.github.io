@@ -78,7 +78,7 @@
     "url": "git+https://github.com/JaeYeopHan/gatsby-starter-bee.git"
   },
   "scripts": {
-    "deploy": "gatsby build && gh-pages -d public -b gatsby-version -r 'git@github.com:heeyeah/heeyeah.github.io.git'",
+    "deploy": "gatsby build && gh-pages -d public -b master -r 'git@github.com:heeyeah/heeyeah.github.io.git'",
     "post": "gatsby-post-gen",
     "dev": "gatsby develop",
     "lint": "eslint --ext .js,.jsx --ignore-pattern public .",
