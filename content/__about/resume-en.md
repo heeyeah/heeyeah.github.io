@@ -4,22 +4,20 @@ date: 2019-1-27 16:21:13
 lang: 'en'
 ---
 
-# Heeye
+# Career
 
-+ Java developer
-+ Cloud engineer
-+ Junior :P
++ Software Developer
 
 <br/>
 
 # Experiences
-### Shinhan Bank
+### Bank
 + 2019.08 ~ current
-+ ICT Operation Part Cloud Unit / Back-End Developer, Cloud Engineer
++ Cloud Unit
 
-### Bankware Global
+### Financial IT
 + 2015.12 ~ 2019.07
-+ Java framework Lab / Back-End Developer
++ Java framework Lab
 
 <br/>
 
@@ -33,5 +31,5 @@ lang: 'en'
 <div align="center">
 
 
-_If you want to contact me, Please send me an email ✉️_
+_hello, world👻_
 </div>

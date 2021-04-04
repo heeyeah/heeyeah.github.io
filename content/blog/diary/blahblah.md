@@ -2,7 +2,7 @@
 title: 'blah, blah'
 date: 2021-03-13 20:30:00
 category: diary
-draft: false
+draft: true
 ---
 
 ### 하고싶은 것들
