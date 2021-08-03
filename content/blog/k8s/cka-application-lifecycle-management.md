@@ -21,6 +21,7 @@ StrategyType
 - RollingUpdate
 - Upgrades
 - Rollback
+
   `kubectl rollout undo deployment/myapp-deployment`
 
 

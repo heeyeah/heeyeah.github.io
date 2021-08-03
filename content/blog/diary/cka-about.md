@@ -30,7 +30,26 @@ CKA는 Certified Kubernetes Administrator의 약자로, 쉽게 말해 쿠버네�
 
     ※ 화, 목은 화상회의로 진행 될 예정
 
----
+
+### 시험상세
+
+The online exam consists of a set of performance-based items (problems) to be solved in a command line and candidates have **2 hours** to complete the tasks.
+
+
+
+#### Domain	Weight
+
+Cluster Architecture, Installation & Configuration	25%
+
+Workloads & Scheduling	15%
+
+Services & Networking	20%
+
+Storage	10%
+
+Troubleshooting	30%
+
+
 
 #### 여담
 
